@@ -1,3 +1,9 @@
 /.venv
 /data
 /notebooks/data
+/.claude
+requirements.txt
+testFile.py
+hook_cases.jsonl
+hook_runner.py
+Screenshot 2026-09-04 210011.png
