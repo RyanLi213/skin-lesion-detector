@@ -7,3 +7,7 @@ testFile.py
 hook_cases.jsonl
 hook_runner.py
 Screenshot 2026-09-04 210011.png
+
+/CLAUDE.md
+*.zip
+/notebooks/data/
