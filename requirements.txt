@@ -10,10 +10,9 @@ matplotlib==3.11.2
 ipykernel==7.4.0
 
 # ONNX export + INT8 quantization (DermLIP section 15, ResNet sections 10-11).
-# Not yet installed in .venv: pin to the installed versions after the first install.
-onnx
-onnxruntime
-onnxscript
+onnx==1.23.2
+onnxruntime==1.31.0
+onnxscript==0.7.2
 
 # ISIC archive downloads (`isic image download ...`)
 isic-cli==12.7.0

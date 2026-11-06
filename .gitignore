@@ -8,6 +8,7 @@ hook_cases.jsonl
 hook_runner.py
 Screenshot 2026-09-04 210011.png
 notebooks/DermLip_Skin_Lesion_PipelineV3.ipynb
+notebooks/DermLIP_Skin_Lesion_Pipeline_messing_around.ipynb
 
 /CLAUDE.md
 *.zip
