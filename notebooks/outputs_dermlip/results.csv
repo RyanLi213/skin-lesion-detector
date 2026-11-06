@@ -1,0 +1,49 @@
+accuracy,balanced_accuracy,macro_f1,n,macro_auroc,benchmark,modality,camera,method,status,retention_%
+0.7798408488063661,0.71385319009239,0.6912098450923959,754,0.9474802203513484,HAM10000,dermoscopy,clean,linear probe,READY,100.0
+0.773209549071618,0.746204458097223,0.663148771348574,754,0.9557339433301556,HAM10000,dermoscopy,clean,robust head,READY,100.0
+0.6511936339522546,0.4842851005674233,0.5087314629978431,754,0.9144398650047098,HAM10000,dermoscopy,clinical_reference,linear probe,READY,67.84099409918515
+0.7188328912466844,0.6557834513127485,0.600207372277886,754,0.9491770517022295,HAM10000,dermoscopy,clinical_reference,robust head,READY,87.88254267268215
+0.6087533156498673,0.4492755916139585,0.4649738584322208,754,0.905042672459088,HAM10000,dermoscopy,smartphone_mid,linear probe,READY,62.936693125348555
+0.7108753315649867,0.6746246594613649,0.6064122488574925,754,0.9471296556981433,HAM10000,dermoscopy,smartphone_mid,robust head,READY,90.40748177538602
+0.5596816976127321,0.408107705521885,0.4282007023226146,754,0.8910718874882984,HAM10000,dermoscopy,picam3,linear probe,READY,57.16969696094878
+0.656498673740053,0.6530930496007237,0.5838642316286666,754,0.9412308141524536,HAM10000,dermoscopy,picam3,robust head,READY,87.52199782698592
+0.47745358090185674,0.46681269934875097,0.4568802159060416,754,0.8817218673685163,HAM10000,dermoscopy,picam2_dim,linear probe,READY,65.3933758127962
+0.5517241379310345,0.5856514758367954,0.5313179185946773,754,0.930863404691574,HAM10000,dermoscopy,picam2_dim,robust head,READY,78.48404944271867
+0.40318302387267907,0.3385008017119796,0.33342728529340054,754,0.8332462022329958,HAM10000,dermoscopy,cheap_usb,linear probe,READY,47.41882594489342
+0.44562334217506633,0.5065649881528025,0.4581017771329968,754,0.9080747628323367,HAM10000,dermoscopy,cheap_usb,robust head,READY,67.88554834482134
+,,,0,,PAD-UFES-20,clinical (smartphone),clean,linear probe,NOT CONFIGURED,
+,,,0,,PAD-UFES-20,clinical (smartphone),clean,robust head,NOT CONFIGURED,
+,,,0,,PAD-UFES-20,clinical (smartphone),clinical_reference,linear probe,NOT CONFIGURED,
+,,,0,,PAD-UFES-20,clinical (smartphone),clinical_reference,robust head,NOT CONFIGURED,
+,,,0,,PAD-UFES-20,clinical (smartphone),smartphone_mid,linear probe,NOT CONFIGURED,
+,,,0,,PAD-UFES-20,clinical (smartphone),smartphone_mid,robust head,NOT CONFIGURED,
+,,,0,,PAD-UFES-20,clinical (smartphone),picam3,linear probe,NOT CONFIGURED,
+,,,0,,PAD-UFES-20,clinical (smartphone),picam3,robust head,NOT CONFIGURED,
+,,,0,,PAD-UFES-20,clinical (smartphone),picam2_dim,linear probe,NOT CONFIGURED,
+,,,0,,PAD-UFES-20,clinical (smartphone),picam2_dim,robust head,NOT CONFIGURED,
+,,,0,,PAD-UFES-20,clinical (smartphone),cheap_usb,linear probe,NOT CONFIGURED,
+,,,0,,PAD-UFES-20,clinical (smartphone),cheap_usb,robust head,NOT CONFIGURED,
+,,,0,,Fitzpatrick17K,clinical photo,clean,linear probe,NOT CONFIGURED,
+,,,0,,Fitzpatrick17K,clinical photo,clean,robust head,NOT CONFIGURED,
+,,,0,,Fitzpatrick17K,clinical photo,clinical_reference,linear probe,NOT CONFIGURED,
+,,,0,,Fitzpatrick17K,clinical photo,clinical_reference,robust head,NOT CONFIGURED,
+,,,0,,Fitzpatrick17K,clinical photo,smartphone_mid,linear probe,NOT CONFIGURED,
+,,,0,,Fitzpatrick17K,clinical photo,smartphone_mid,robust head,NOT CONFIGURED,
+,,,0,,Fitzpatrick17K,clinical photo,picam3,linear probe,NOT CONFIGURED,
+,,,0,,Fitzpatrick17K,clinical photo,picam3,robust head,NOT CONFIGURED,
+,,,0,,Fitzpatrick17K,clinical photo,picam2_dim,linear probe,NOT CONFIGURED,
+,,,0,,Fitzpatrick17K,clinical photo,picam2_dim,robust head,NOT CONFIGURED,
+,,,0,,Fitzpatrick17K,clinical photo,cheap_usb,linear probe,NOT CONFIGURED,
+,,,0,,Fitzpatrick17K,clinical photo,cheap_usb,robust head,NOT CONFIGURED,
+,,,0,,Daffodil,mixed,clean,linear probe,NOT CONFIGURED,
+,,,0,,Daffodil,mixed,clean,robust head,NOT CONFIGURED,
+,,,0,,Daffodil,mixed,clinical_reference,linear probe,NOT CONFIGURED,
+,,,0,,Daffodil,mixed,clinical_reference,robust head,NOT CONFIGURED,
+,,,0,,Daffodil,mixed,smartphone_mid,linear probe,NOT CONFIGURED,
+,,,0,,Daffodil,mixed,smartphone_mid,robust head,NOT CONFIGURED,
+,,,0,,Daffodil,mixed,picam3,linear probe,NOT CONFIGURED,
+,,,0,,Daffodil,mixed,picam3,robust head,NOT CONFIGURED,
+,,,0,,Daffodil,mixed,picam2_dim,linear probe,NOT CONFIGURED,
+,,,0,,Daffodil,mixed,picam2_dim,robust head,NOT CONFIGURED,
+,,,0,,Daffodil,mixed,cheap_usb,linear probe,NOT CONFIGURED,
+,,,0,,Daffodil,mixed,cheap_usb,robust head,NOT CONFIGURED,
