@@ -1,0 +1,21 @@
+# Pinned to the versions in the project .venv that are known to work together.
+torch==2.14.1
+torchvision==0.29.1
+open_clip_torch==3.3.0
+numpy==2.5.4
+pandas==3.0.6
+pillow==12.3.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+ipykernel==7.4.0
+
+# ONNX export + INT8 quantization (DermLIP section 15, ResNet sections 10-11).
+onnx==1.23.2
+onnxruntime==1.31.0
+onnxscript==0.7.2
+
+# ISIC archive downloads (`isic image download ...`)
+isic-cli==12.7.0
+
+# only used by scratch scripts (testFile.py)
+transformers==5.19.0
